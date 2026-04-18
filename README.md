@@ -19,18 +19,6 @@ I'm a Computer Science student at **Institute of Space Technology** (Batch 2023�
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 💪 [Apex Fit](https://github.com/rooheenfarooqi/apex-fit) | AI-powered Android fitness app with food recognition & calorie tracking | Kotlin, Firebase, REST APIs |
-| 🎗️ Cancer Care Insight | ML-based cancer prediction system using MLP & KNN classifiers | Python, Scikit-Learn |
-| 📚 Smart AI Study Planner | AI-driven study planner with personalized recommendations | Flask, MySQL, Scikit-Learn |
-| 🌐 UniVerse | Student productivity dashboard with Gemini AI chatbot | React, Firebase, Gemini API |
-| 🛒 [Rohani Waqt](https://github.com/rooheenfarooqi/rohani-waqt) | Responsive watch e-commerce website | HTML, CSS, JavaScript |
-
----
-
 ### 🛠️ Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
